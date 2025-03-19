@@ -33,10 +33,3 @@
   <img src="https://img.shields.io/badge/Checkstyle-000000?style=for-the-badge&labelColor=000000&logo=checkstyle&logoColor=white" alt="Checkstyle">
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&labelColor=0079BF&logo=trello&logoColor=white" alt="Trello">
 </div>
-
----
-
-<div align="center">
-  <p><strong>"------------------------------------------."</strong></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kdz198&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats">
-</div>
