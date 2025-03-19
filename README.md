@@ -6,6 +6,7 @@
 
 ---
 <div align="center">
+    <h1>TechStack</h1>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=ED8B00&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&labelColor=00599C&logo=c&logoColor=white" alt="C">
