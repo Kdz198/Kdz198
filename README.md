@@ -5,7 +5,6 @@
 </div>
 
 ---
-<p align="center"><img src="https://transparenttextures.com/patterns/black-thread.png" height="10"/></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,docker,aws,rabbitmq,maven" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="42"/>
