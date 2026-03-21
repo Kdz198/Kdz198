@@ -6,10 +6,9 @@
 
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,docker,aws,rabbitmq,maven" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="42"/>
+  <img src="https://skillicons.dev/icons?i=java,python,spring,postgres,mysql,redis,docker,linux,aws,cloudflare,rabbitmq,git,maven" />
 </p>
 
 <div align="center">
-<sub>Spring Boot • Microservices • Saga Pattern • RabbitMQ • MSSQL & PostgreSQL • Docker • AWS • Maven</sub>
+<sub>Java • Python • Spring Boot • PostgreSQL • MySQL • Redis • Docker • Linux • AWS • Cloudflare • RabbitMQ • Git • Maven</sub>
 </div>
